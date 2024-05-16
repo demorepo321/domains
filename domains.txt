@@ -1,2 +1,4 @@
 haris.com 
 telecom.com
+abc.com 
+qwet.com
