@@ -1,4 +1,5 @@
+google.com
+youtube.com
+fb.com
 haris.com 
-telecom.com
-abc.com 
-qwet.com
+cnn.com
