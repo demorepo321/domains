@@ -3,3 +3,5 @@ youtube.com
 fb.com
 haris.com 
 cnn.com
+bbc.com
+linkedin.com
